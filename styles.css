@@ -1,0 +1,24 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: black;
+    color: white;
+    padding: 128px 16px;
+}
+.Effects{
+    background-color: pink;
+}
+img{
+  Width: 300px;  
+}
+.Gallery{
+display: flex;
+    padding:10px;
+    margin: 10px;
+    border:13px solid pink;
+    justify-content: space-around;
+    
+}
+a:hover {
+  background-color: yellow;
+}
